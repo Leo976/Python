@@ -1,6 +1,6 @@
 import unittest
 
-from os import system
+
 
 my_list = [0, 2, 4, 8, 16]
 
@@ -48,5 +48,3 @@ if __name__ == '__main__':
 
     unittest.main()
     print(find(my_list, 2048))
-
-system("pause")
