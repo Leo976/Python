@@ -1,0 +1,7 @@
+avion
+jump
+orange
+pomme
+wagon
+infinie
+leo
