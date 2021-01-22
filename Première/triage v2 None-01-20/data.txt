@@ -1,0 +1,5 @@
+png,jpg=images>img_png,img_jpg
+txt=traitement de textes
+mp4=videos
+zip=archives
+accdb,pub=sauvegardes
