@@ -1,2 +1,0 @@
-matrix = None
-player = None
