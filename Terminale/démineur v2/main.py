@@ -70,7 +70,6 @@ while True:
 	column = int(input('Colonne = ')) - 1
 
 	if matrix_player.out_of_dimension(line, column):
-		print('yes')
 		continue
 
 	if matrix_answer.read(line, column) == 9:
